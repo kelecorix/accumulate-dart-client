@@ -3,7 +3,6 @@ import 'dart:typed_data';
 
 import 'package:accumulate_api_ng/accumulate_api.dart';
 import 'package:accumulate_api_ng/src/utils/merkle_root_builder.dart';
-import 'package:accumulate_api_ng/src/utils/utils.dart';
 import 'package:test/test.dart';
 
 void main() {
@@ -25,7 +24,7 @@ void main() {
       final res = await acmeClient.queryUrl("acc://dodoj.acme");
       res.length;
       String atype = res["result"]["type"];
-    } catch (e, stackTrace) {
+    } catch (e) {
       e.hashCode;
     }
 

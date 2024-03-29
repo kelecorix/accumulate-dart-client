@@ -1,8 +1,6 @@
 import 'dart:typed_data';
 
 import 'package:accumulate_api_ng/accumulate_api.dart';
-import 'package:accumulate_api_ng/src/signing/ed25519_keypair.dart';
-import 'package:accumulate_api_ng/src/utils/utils.dart';
 import "package:crypto/crypto.dart";
 import 'package:ed25519_edwards/ed25519_edwards.dart' as ed;
 import 'package:hex/hex.dart';

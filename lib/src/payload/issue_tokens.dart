@@ -1,5 +1,4 @@
 import "dart:typed_data";
-import 'package:accumulate_api_ng/src/payload/send_tokens.dart';
 
 import '../utils/utils.dart';
 

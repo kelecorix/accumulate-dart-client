@@ -40,7 +40,7 @@ import 'package:accumulate_api_ng/accumulate_api.dart';
 See [examples](EXAMPLE.md) on how to use library.
 
 ## Contributions
-This ibrary [initially](https://github.com/kompendium-ano/accumulate-dart-client) developed by [Kelecorix, Inc](https://github.com/kelecorix) and [Sergey Bushnyak](https://github.com/sigrlami) for Kompendium LLC, 
+This library [initially](https://github.com/kompendium-ano/accumulate-dart-client) developed by [Kelecorix, Inc](https://github.com/kelecorix) and [Sergey Bushnyak](https://github.com/sigrlami) for Kompendium LLC, 
 however this is opinionated fork with goal to maintain *idiomatic* Dart/Flutter approach.
 
 Contributions are welcome, open new PR or submit new issue.
