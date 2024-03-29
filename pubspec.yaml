@@ -1,7 +1,7 @@
-name: accumulate_api
+name: accumulate_api_ng
 description: Dart client for Accumulate blockchain, defines basic models and API calls to work with network, supports all types of accounts.
-repository: https://github.com/kompendium-ano/accumulate-dart-client
-version: 0.3.2
+repository: https://github.com/kelecorix/accumulate-dart-client
+version: 0.3.6
 
 environment:
   sdk: '>=2.13.4 <4.0.0'
@@ -18,8 +18,8 @@ dependencies:
   json_annotation: ^4.4.0
   dartz: ^0.10.0
   collection: ^1.16.0
-  csv: ^5.0.2
+  csv: ^6.0.0
 
 dev_dependencies:
-  lints: ^2.1.0
+  lints: ^3.0.0
   test: ^1.24.7
