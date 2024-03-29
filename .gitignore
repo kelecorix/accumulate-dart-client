@@ -1,0 +1,29 @@
+#*
+#*#
+.#*
+*~
+log
+*.dump-hi
+
+#Dart's
+.dart_tool/
+pubspec.lock
+
+#IDE's
+.idea
+.vscode
+
+# Other
+build
+.DS_Store
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+**/.DS_Store
+
+
