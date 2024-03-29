@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:accumulate_api/src/encoding.dart';
-import 'package:accumulate_api/src/utils/utils.dart';
+import 'package:accumulate_api_ng/src/encoding.dart';
+import 'package:accumulate_api_ng/src/utils/utils.dart';
 import 'package:test/test.dart';
 
 void main() {

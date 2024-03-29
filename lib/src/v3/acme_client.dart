@@ -4,10 +4,10 @@ import 'dart:developer';
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:accumulate_api/accumulate_api.dart';
+import 'package:accumulate_api_ng/accumulate_api.dart';
 import 'package:hex/hex.dart';
-import 'package:accumulate_api/src/model/query_transaction_response_model.dart' as query_trx_res_model;
-import 'package:accumulate_api/src/model/tx.dart' as txModel;
+import 'package:accumulate_api_ng/src/model/query_transaction_response_model.dart' as query_trx_res_model;
+import 'package:accumulate_api_ng/src/model/tx.dart' as txModel;
 
 class ACMEClientV3 {
   late RpcClient _rpcClient;

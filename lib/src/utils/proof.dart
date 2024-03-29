@@ -1,15 +1,15 @@
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:accumulate_api/src/acme_client.dart';
-import 'package:accumulate_api/src/model/api_types.dart';
-import 'package:accumulate_api/src/model/receipt.dart';
-import 'package:accumulate_api/src/model/receipt_model.dart';
-import 'package:accumulate_api/src/payload/create_token.dart';
-import 'package:accumulate_api/src/utils/utils.dart';
+import 'package:accumulate_api_ng/src/acme_client.dart';
+import 'package:accumulate_api_ng/src/model/api_types.dart';
+import 'package:accumulate_api_ng/src/model/receipt.dart';
+import 'package:accumulate_api_ng/src/model/receipt_model.dart';
+import 'package:accumulate_api_ng/src/payload/create_token.dart';
+import 'package:accumulate_api_ng/src/utils/utils.dart';
 import 'package:crypto/crypto.dart';
 import 'package:dartz/dartz.dart';
-import 'package:accumulate_api/src/transaction.dart' as trans;
+import 'package:accumulate_api_ng/src/transaction.dart' as trans;
 import 'package:hex/hex.dart';
 
 

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:accumulate_api/src/utils/utils.dart';
+import 'package:accumulate_api_ng/src/utils/utils.dart';
 import 'package:crypto/crypto.dart';
 
 class MerkleRootBuilder {

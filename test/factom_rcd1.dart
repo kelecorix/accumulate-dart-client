@@ -1,9 +1,9 @@
 import 'dart:convert';
 
-import 'package:accumulate_api/src/model/factom/factom_entry.dart';
-import 'package:accumulate_api/src/payload/factom_data_entry.dart';
-import 'package:accumulate_api/src/signing/ed25519_keypair.dart';
-import 'package:accumulate_api/src/utils/utils.dart';
+import 'package:accumulate_api_ng/src/model/factom/factom_entry.dart';
+import 'package:accumulate_api_ng/src/payload/factom_data_entry.dart';
+import 'package:accumulate_api_ng/src/signing/ed25519_keypair.dart';
+import 'package:accumulate_api_ng/src/utils/utils.dart';
 import 'package:test/test.dart';
 
 void main() {

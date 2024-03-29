@@ -8,6 +8,7 @@ log
 #Dart's
 .dart_tool/
 pubspec.lock
+out/
 
 #IDE's
 .idea

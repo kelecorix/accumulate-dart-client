@@ -1,9 +1,9 @@
 import 'dart:core';
 import 'dart:typed_data';
 
-import 'package:accumulate_api/src/client/acc_url.dart';
-import 'package:accumulate_api/src/model/factom/factom_ext_ref.dart';
-import 'package:accumulate_api/src/utils/hash_builder.dart';
+import 'package:accumulate_api_ng/src/client/acc_url.dart';
+import 'package:accumulate_api_ng/src/model/factom/factom_ext_ref.dart';
+import 'package:accumulate_api_ng/src/utils/hash_builder.dart';
 import 'package:hex/hex.dart';
 import 'package:json_annotation/json_annotation.dart';
 

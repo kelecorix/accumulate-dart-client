@@ -33,7 +33,7 @@ Import it
 
 Now in your Dart code, you can use:
 ```
-import 'package:accumulate_api/accumulate_api.dart';
+import 'package:accumulate_api_ng/accumulate_api.dart';
 ```
 
 ## Usage

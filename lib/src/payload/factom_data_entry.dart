@@ -1,9 +1,9 @@
 import 'dart:core';
 import 'dart:typed_data';
 
-import 'package:accumulate_api/src/encoding.dart';
-import 'package:accumulate_api/src/payload/base_payload.dart';
-import 'package:accumulate_api/src/utils/utils.dart';
+import 'package:accumulate_api_ng/src/encoding.dart';
+import 'package:accumulate_api_ng/src/payload/base_payload.dart';
+import 'package:accumulate_api_ng/src/utils/utils.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 class FactomDataEntryParam {
